@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">task</string>
+    <string name="user_name">Username</string>
+    <string name="pass_word">Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="car">Car</string>
+    <string name="bike">Bike</string>
+    <string name="reg">Register</string>
+    <string name="but">Button</string>
+    <string name="remember">Remember Login Info</string>
+    <string name="email">Email</string>
+    <string name="country">Select Country</string>
+    <string name="List">List of Fruits</string>
+    <string-array name="Countries">
+        <item>Australia</item>
+        <item>Austin</item>
+        <item>brazil</item>
+        <item>Canada</item>
+        <item>Denmark</item>
+        <item>England</item>
+        <item>Finland</item>
+        <item>India</item>
+        <item>Ireland</item>
+        <item>Nepal</item>
+        <item>South Africa</item>
+        <item>Italy</item>
+    </string-array>
+    <string-array name="Fruits">
+        <item>Apple</item>
+        <item>Apricot</item>
+        <item>Avocado</item>
+        <item>Banana</item>
+        <item>Berry</item>
+        <item>Cherry</item>
+        <item>Dragon Fruit</item>
+        <item>Grapes</item>
+        <item>Kiwi</item>
+        <item>Mango</item>
+        <item>Oranges</item>
+        <item>Pineapple</item>
+    </string-array>
+</resources>
